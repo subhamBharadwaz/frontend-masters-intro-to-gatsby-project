@@ -2,4 +2,4 @@
 
 This is the project we'll build together to introduce you to Gatsby!
 
-See the [workshop site](https://frontendmasters.learnwithjason.dev/intro-to-gatsby/) for more details.
+App - https://611733ea8af9b51be484ab36--frontend-masters-intro-to-gatsby.netlify.app/
